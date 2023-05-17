@@ -11,5 +11,9 @@ An NFT AMM is the decentralized alternative to centralized marketplaces such as 
 * https://seacows-frontend-git-feature-trade-pair-yolominds.vercel.app/collections/0x10b8b56d53bfa5e374f38e6c0830bad4ebee33e6#sell
 * Reference Link
 
+### Contributor:
+* [Frances He](https://github.com/Franceshe)
+* [Anthony](https://github.com/anthowen)
+
 ## TODO:
 * Change ethereum acccount based smart contract to Bitcoin PSBT UXTO-ledger based model
